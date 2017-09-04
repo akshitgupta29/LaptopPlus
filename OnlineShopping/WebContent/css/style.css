@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+body  
+{
+	/*background-image:url(~/images/background2.jpg);*/
+	background-attachment: fixed; 
+	background-repeat: no-repeat; 
+}
+
+header
+{
+	text-align: center;
+}
+
+.logo
+{
+	width:900px;
+	height:150px;
+}
